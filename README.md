@@ -26,4 +26,6 @@ Beta in the works Location Simulator.
 -
 -
 -
+SOURCE CODE MAY BE FOUND HERE BUT MAY BE OUT OF DATE WITH THE ABOVE PACKAGE(source only has up to ios 15.1)
+https://github.com/Schlaubischlump/LocationSimulator
 Files Legally Belong to Schlaubischlump.
