@@ -8,7 +8,7 @@ Beta in the works Location Simulator.
 4. Because of macOS you might require an Extra Step if the APP doesn't open, aka File Corrupted.
 5. Open Terminal app (click search and type terminal)
 6. COPY AND PASTE THE FOLLOWING
-   xattr -dr com.apple.quarantine /Applications/LocationSimulator.app
+   " xattr -dr com.apple.quarantine /Applications/LocationSimulator.app "
 7. Open the Location App and plug in your Phone.
 
 -
