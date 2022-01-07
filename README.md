@@ -10,3 +10,8 @@ Beta in the works Location Simulator.
 6. COPY AND PASTE THE FOLLOWING
    xattr -dr com.apple.quarantine /Applications/LocationSimulator.app
 7. Open the Location App and plug in your Phone.
+
+
+
+
+Files Legally Belong to Schlaubischlump.
